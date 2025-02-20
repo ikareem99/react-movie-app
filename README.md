@@ -3,6 +3,12 @@
 🚀 A modern **Movie Search & Discovery App** built using **React.js, Tailwind CSS, and JavaScript**.  
 Search for your favorite movies, view details, and explore trending films with an intuitive UI.
 
+
+---
+
+## 🌐 Live Demo  
+🔥 **Experience it in action:** 👉 [Click Here](https://react-movie-app-by-hanzala.vercel.app/)  
+
 ---
 
 ## ✨ Features
